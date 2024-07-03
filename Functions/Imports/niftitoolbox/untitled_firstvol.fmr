@@ -1,0 +1,64 @@
+
+FileVersion:                   6
+NrOfVolumes:                   1
+NrOfSlices:                    54
+NrOfSkippedVolumes:            0
+Prefix:                        "untitled_firstvol"
+DataStorageFormat:             2
+DataType:                      2
+TR:                            3000
+InterSliceTime:                55
+TimeResolutionVerified:        0
+TE:                            0
+SliceAcquisitionOrder:         0
+SliceAcquisitionOrderVerified: 0
+ResolutionX:                   71
+ResolutionY:                   71
+LoadAMRFile:                   "<none>"
+ShowAMRFile:                   1
+ImageIndex:                    0
+LayoutNColumns:                8
+LayoutNRows:                   7
+LayoutZoomLevel:               1
+SegmentSize:                   10
+SegmentOffset:                 0
+NrOfLinkedProtocols:           1
+ProtocolFile:                  "<none>"
+InplaneResolutionX:            3
+InplaneResolutionY:            3
+SliceThickness:                3
+SliceGap:                      0
+VoxelResolutionVerified:       1
+
+
+PositionInformationFromImageHeaders
+
+PosInfosVerified: 0
+CoordinateSystem: 0
+Slice1CenterX:    0
+Slice1CenterY:    0
+Slice1CenterZ:    0
+SliceNCenterX:    0
+SliceNCenterY:    0
+SliceNCenterZ:    0
+RowDirX:          0
+RowDirY:          0
+RowDirZ:          0
+ColDirX:          0
+ColDirY:          0
+ColDirZ:          0
+NRows:            0
+NCols:            0
+FoVRows:          0
+FoVCols:          0
+SliceThickness:   1
+GapThickness:     0
+
+
+NrOfPastSpatialTransformations: 0
+
+
+LeftRightConvention: Radiological
+
+
+FirstDataSourceFile: "taco.img"
